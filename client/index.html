@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastrar Novo Item</title>
+</head>
+<body>
+    <header><h1>Adição de Dados</h1></header>
+    <main>
+        <form action="http://localhost:3000/dados" method="post">
+            <input type="text" name="local" placeholder="Local (ex: Laboratório 05)" required>
+            <input type="text" name="equipamento" placeholder="Equipamento" required>
+            <input type="number" name="consumo_kwh" step="0.01" placeholder="Consumo (kWh)" required>
+            <input type="month" name="mes_referencia" required>
+            <input type="submit" value="Enviar">
+        </form>
+    </main>
+</body>
+</html>

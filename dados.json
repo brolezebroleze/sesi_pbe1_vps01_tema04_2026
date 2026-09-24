@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "local": "Laboratório 03",
+        "equipamento": "Ar-condicionado",
+        "consumo_kwh": 185.4,
+        "mes_referencia": "2026-09",
+        "status": "Consumo elevado"
+    },
+    {
+        "id": 2,
+        "local": "Laboratório 05",
+        "equipamento": "Computador de Mesa",
+        "consumo_kwh": 90,
+        "mes_referencia": "2026-06",
+        "status": "Consumo normal"
+    },
+    {
+        "id": 3,
+        "local": "Laboratório 05",
+        "equipamento": "Notebook Dell",
+        "consumo_kwh": 45,
+        "mes_referencia": "2026-06",
+        "status": "Consumo normal"
+    },
+    {
+        "id": 4,
+        "local": "Laboratório 02",
+        "equipamento": "Balança de Alta Precisão",
+        "consumo_kwh": 5,
+        "mes_referencia": "2026-09",
+        "status": "Consumo elevado"
+    },
+    {
+        "id": 5,
+        "local": "Laboratório 04",
+        "equipamento": "fogão por indução",
+        "consumo_kwh": 100,
+        "mes_referencia": "2026-05",
+        "status": "Consumo elevado"
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "tema 04 radical",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "brolezebroleze",
+  "license": "ISC",
+  "description": "prova de programação backend",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
